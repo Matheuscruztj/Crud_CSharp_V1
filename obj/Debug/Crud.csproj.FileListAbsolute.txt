@@ -1,0 +1,12 @@
+D:\Cursos\Estudo_C#\Crud\bin\Debug\Crud.exe.config
+D:\Cursos\Estudo_C#\Crud\bin\Debug\Crud.exe
+D:\Cursos\Estudo_C#\Crud\bin\Debug\Crud.pdb
+D:\Cursos\Estudo_C#\Crud\obj\Debug\Crud.csprojAssemblyReference.cache
+D:\Cursos\Estudo_C#\Crud\obj\Debug\Crud.Form1.resources
+D:\Cursos\Estudo_C#\Crud\obj\Debug\Crud.Properties.Resources.resources
+D:\Cursos\Estudo_C#\Crud\obj\Debug\Crud.csproj.GenerateResource.cache
+D:\Cursos\Estudo_C#\Crud\obj\Debug\Crud.csproj.CoreCompileInputs.cache
+D:\Cursos\Estudo_C#\Crud\obj\Debug\Crud.exe
+D:\Cursos\Estudo_C#\Crud\obj\Debug\Crud.pdb
+D:\Cursos\Estudo_C#\Crud\bin\Debug\MySql.Data.dll
+D:\Cursos\Estudo_C#\Crud\obj\Debug\Crud.csproj.CopyComplete
